@@ -16,4 +16,4 @@ A função do package.json é gerenciar as informações e de script e dependenc
 
 >>Comando: npm install -s live-Server
 
-O live server será
+O live server será usado para usar a porta 3000 para rodar a aplicação.
