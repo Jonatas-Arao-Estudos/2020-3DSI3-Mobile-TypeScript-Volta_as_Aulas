@@ -2,7 +2,7 @@ namespace empresa{
     export class Pessoa{
         //informações da classe
         private nome:string;
-        private cpf: string;
+        private cpf:string;
         private idade:number|undefined;
 
         constructor(nome:string, cpf:string){
